@@ -1,1 +1,3 @@
 Hello world!
+
+Additional sample text for the branch
